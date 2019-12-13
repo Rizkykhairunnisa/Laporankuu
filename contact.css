@@ -1,0 +1,33 @@
+.kiki{
+    color: black;
+    background-color: rgba(240, 248, 255, 0.671);
+    width: 80%;
+    padding: 50px 80px;
+    font-family: helvetica;
+    font-size: 10px;
+    margin: auto;
+}
+.footer{
+    font-family: auto;
+    margin: auto;
+    text-align: center;
+    font-size: px;
+    color: rgb(72, 142, 151)
+}
+body{
+    margin: auto;
+    background-image: url(lagilatar.jpg);
+    width: 80%;
+    padding: 40px;
+}
+h1{
+    font-family: sans-serif;
+    margin: auto;
+    text-align: center;
+    font-size: 30px;
+}
+
+}
+.li{
+    font-size: 30px;
+}
